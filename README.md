@@ -45,6 +45,12 @@
 <a href="https://redis.io/"><img src="https://img.icons8.com/color/2x/redis.png" alt="redis" style="width:50px"/></a>
 <br><br>
 
+### Object-Relational Mapping (ORM)
+<a href="https://sequelize.org"><img src="https://sequelize.org/img/logo.svg" alt="sequelize" style="width:50px"/></a>
+<a href="https://typeorm.io"><img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" alt="typeorm" style="width:50px"/></a>
+<a href="https://mongoosejs.com"><img src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="mongoose" style="width:50px"/></a>
+<br><br>
+
 ### Object Storage
 <a href="https://docs.aws.amazon.com/s3/index.htm"><img src="https://img.icons8.com/color/2x/amazon-s3.png" alt="s3-aws" style="width:50px"/></a>
 <br><br>
